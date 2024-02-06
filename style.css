@@ -23,7 +23,9 @@ body{
     background-color: var(--very-dark-blue);
 }
 .card{
+    width: 415px;
     max-width: 415px;
+    height: 415px;
     max-height: 425px;
     padding: 30px;
 
